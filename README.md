@@ -26,7 +26,7 @@ A aplicação web deve estar disponível em `http://localhost:4000`, conforme a 
 Clone este repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/Eduardo101323/banco-web-tests.git
+git clone https://github.com/eduardocavalcante13/banco-web-tests.git
 cd banco-web-tests
 npm install
 ```
