@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run" ,
+    "test": "cypress run",
     "test-qa": "cypress run",
     "test-prod": "cypress run",
     "cy:headed": "cypress run --headed",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Eduardo101323/banco-web-tests#readme",
   "devDependencies": {
-    "cypress": "^16.1.0"
+    "cypress": "^16.1.0",
+    "cypress-mochawesome-reporter": "^5.0.0"
   }
 }
